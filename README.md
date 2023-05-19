@@ -1,9 +1,10 @@
-# Git-it (Desktop App) - adapted for Manchester Codes
+# Git-it (Desktop App) - adapted for Command Shift
 
 ![Git-It](screenshot.png)
 Git-it is a desktop (Mac, Windows and Linux) app that teaches you how to use Git and GitHub on the [command line](https://en.wikipedia.org/wiki/Command-line_interface). Please work through all of the steps, ensuring you verify your solutions along the way.
 
 ---
+
 ## Hello future Forkers, Branchers and Pull Requesters!
 
 This application contains challenges for learning Git and GitHub—by using _real_ Git and GitHub, not emulators. You'll be learning the awesome (and not so scary) command line and GitHub which means when you finish all of the challenges you'll have _real_ repositories on your GitHub account and green squares on your [contribution chart](https://github.com/blog/1360-introducing-contributions).
@@ -12,7 +13,7 @@ This application contains challenges for learning Git and GitHub—by using _rea
 
 ## Applications
 
-You will need to use and install this app Git-it, as well as Visual Studio Code to edit the files. You'll also of course need Git (you should have Visual Studio Code and Git installed already). 
+You will need to use and install this app Git-it, as well as Visual Studio Code to edit the files. You'll also of course need Git (you should have Visual Studio Code and Git installed already).
 
 ### Git-it
 
